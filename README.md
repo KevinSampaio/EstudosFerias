@@ -1,2 +1,8 @@
-# EstudosFerias
-Linguagens estudadas nas férias
+# Estudos de linguagens
+
+Objetivo:
+
+Java
+Kotlin
+Angular
+
